@@ -12,7 +12,7 @@ Open `index.html` in a browser. No installation or backend required. On GitHub, 
 - Skills, adoption risks, interventions, and validation questions
 
 ## Case methodology
-Apex Foods is a **fictional** packaged-foods organization. The proposed future-state operating model includes integrated planning information, evidence-based forecast adjustment, exception management, constraint-aware planning, and proactive sourcing. Critical decisions remain human-owned. Ratings are illustrative hypotheses pending validation through interviews, process walkthroughs, and governance reviews.
+Apex Foods is a fictional packaged-foods organization. The proposed future state operating model includes integrated planning information, evidence based forecast adjustment, exception management, constraint aware planning, and proactive sourcing. Critical decisions remain human-owned. Ratings are illustrative hypotheses pending validation through interviews, process walkthroughs, and governance reviews.
 
 ## Scope and limitations
 This is a **workforce impact prototype**, not a production digital twin, real AI forecasting engine, or validated employee assessment. It contains illustrative data embedded in the page for portability. A separate supply chain simulator and readiness/adoption module can be connected in future iterations.
