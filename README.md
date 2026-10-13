@@ -1,9 +1,10 @@
-# Apex Foods — Workforce Impact Digital Twin
+# Apex Foods | Workforce Impact Digital Twin
 
-An interactive, browser-based consulting portfolio prototype exploring the workforce implications of AI-enabled supply chain planning and procurement transformation.
+An interactive workforce transformation model examining how AI, automation, and redesigned business processes influence organizational roles, responsibilities, skills, and ways of working.
+The project explores an AI-enabled transformation across demand planning, production and inventory planning, and procurement within a fictional packaged-foods organization.
 
 ## Try it
-Open `index.html` in a browser. No installation or backend required. On GitHub, enable **Settings → Pages → Deploy from a branch → main / (root)** to publish the site.
+Open `index.html` in a browser. No installation or backend required. On GitHub, enable **Settings -> Pages -> Deploy from a branch -> main / (root)** to publish the site.
 
 ## What it demonstrates
 - Seven impacted stakeholder roles
@@ -16,6 +17,3 @@ Apex Foods is a fictional packaged-foods organization. The proposed future state
 
 ## Scope and limitations
 This is a **workforce impact prototype**, not a production digital twin, real AI forecasting engine, or validated employee assessment. It contains illustrative data embedded in the page for portability. A separate supply chain simulator and readiness/adoption module can be connected in future iterations.
-
-## How to present it
-Walk through the Demand Planner, Production & Inventory Planner, and Procurement Buyer roles to show how automation affects tasks differently from role accountability. Explain why change impact is not the same as readiness, and how each risk informs a targeted intervention.
