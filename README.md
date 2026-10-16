@@ -3,8 +3,7 @@
 An interactive workforce transformation model examining how AI, automation, and redesigned business processes influence organizational roles, responsibilities, skills, and ways of working.
 The project explores an AI-enabled transformation across demand planning, production and inventory planning, and procurement within a fictional packaged-foods organization.
 
-## Try it
-Open `index.html` in a browser. No installation or backend required. On GitHub, enable **Settings -> Pages -> Deploy from a branch -> main / (root)** to publish the site.
+
 
 ## What it demonstrates
 - Seven impacted stakeholder roles
